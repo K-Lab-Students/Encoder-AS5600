@@ -1,6 +1,6 @@
 #include "ENCODER.h"
 
-//Get Wire class
+//Get TwoWire class
 //Wire.begin()
 ENCODER::ENCODER(TwoWire* wire)
 {
